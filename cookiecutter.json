@@ -1,11 +1,7 @@
 {
-	"full_name": "Bilbo Baggins",
-	"email": "bilbo@shire",
-	"github_username": "theanalyst",
-	"package_name": "moria",
-	"repo_name": "moria-el",
-	"package_short_description": "Speak friend and enter",
-        "keywords" : "lotr",
-	"year": "2013",
-	"version": "0.1.0"
+	"full_name": "Michel Foucault",
+	"id": "mfoucaul",
+	"repo_name": "hello",
+	"app_name": "hello",
+	"description": "the soul is the prison of the body"
 }
