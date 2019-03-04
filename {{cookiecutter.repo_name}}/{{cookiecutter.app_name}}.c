@@ -1,6 +1,7 @@
 /**
  * {{ cookiecutter.description }}
  * @author {{ cookiecutter.full_name }} ({{ cookiecutter.id }})
+ * @file {{ cookiecutter.app_name }}.c
  */
 
 /**
